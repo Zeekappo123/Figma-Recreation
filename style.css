@@ -251,3 +251,50 @@
 
 
 }
+
+
+
+
+#new{
+    background-color: #ffffff;
+    padding-top: 40px;
+    height: fit-content;
+
+}
+
+
+#new p{
+    width: 40%;
+}
+
+
+#new img{
+     width: 100%;  
+  height: auto; 
+
+
+}
+
+
+#arr{
+    margin-left: 500px;
+}
+
+
+#trans{
+    background-color: black;
+    color: #FFFFFF;
+ margin-top: 20px;
+ border-radius: 6px;
+ padding: 30px;
+}
+
+
+
+#tran{
+    background-color: black;
+    color: #FFFFFF;
+ margin-top: 20px;
+ border-radius: 6px;
+ padding: 30px;
+}
